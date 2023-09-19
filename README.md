@@ -9,6 +9,4 @@ Comprises of my solutions for Leetcode questions that I used to prepare for inte
 
 Anika Peer
 
-## Acknowledgments
 
-*
